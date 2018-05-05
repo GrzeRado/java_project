@@ -10,9 +10,8 @@ public class Main {
 
         String name = "Cat";
         String surname = "Puszek";
-        String sound = "meaow";
+        String sound = "-- meaow !!!";
         System.out.println(name + " " + surname + " " + "sounds" + " " + sound);
-
     }
 }
 
