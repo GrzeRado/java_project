@@ -8,9 +8,12 @@ public class Main {
         int liczba = 10;
         System.out.println(liczba);
 
+        String myName = "Avatar";
+        System.out.println(myName);
+
         //insert switch
 
-        switch {
+        /*switch {
 
             case 1:
                 (int>=1 "answer is true");
@@ -20,6 +23,6 @@ public class Main {
                 break;
                 default "nice job, good luck";
         }
-
+    */
     }
 }
