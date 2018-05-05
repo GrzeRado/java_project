@@ -8,10 +8,13 @@ public class Main {
         int liczba = 10;
         System.out.println(liczba);
 
-        String myName = "Avatar";
-        System.out.println(myName);
+        String name = "Cat";
+        String surname = "Puszek";
+        String sound = "meaow";
+        System.out.println(name + " " + surname + " " + "sounds" + " " + sound);
 
     }
+}
 
     /// try to make switch
     /*    int answer = 5;
