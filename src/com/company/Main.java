@@ -11,18 +11,25 @@ public class Main {
         String myName = "Avatar";
         System.out.println(myName);
 
-        //insert switch
-
-        /*switch {
-
-            case 1:
-                (int>=1 "answer is true");
-                break;
-            case 2:
-                (int>=2 "you grow be hero");
-                break;
-                default "nice job, good luck";
-        }
-    */
     }
-}
+
+    /// try to make switch
+    /*    int answer = 5;
+        switch(answer){
+
+        case 1:
+            System.out.println("answer is true");
+            break;
+
+        case 2:
+            System.out.println("you grow be hero");
+            break;
+
+        default:
+            System.out.println("nice job, good luck");
+            break;
+    }
+*/
+
+
+
