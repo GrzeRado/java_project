@@ -12,6 +12,9 @@ public class Main {
         String surname = "Puszek";
         String sound = "-- meaow !!!";
         System.out.println(name + " " + surname + " " + "sounds" + " " + sound);
+
+        int length = 45;
+        System.out.println(length);
     }
 }
 
