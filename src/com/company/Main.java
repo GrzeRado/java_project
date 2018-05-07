@@ -15,7 +15,11 @@ public class Main {
 
         int length = 45;
         System.out.println(length);
+
+        double salary = 2500.22;
+        System.out.println("your payment equals" + " " + salary);
     }
+
 }
 
     /// try to make switch
