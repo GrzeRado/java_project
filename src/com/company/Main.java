@@ -1,5 +1,7 @@
 package com.company;
 
+import javax.swing.*;
+
 public class Main {
 
     public static void main(String[] args) {
@@ -18,6 +20,8 @@ public class Main {
 
         double salary = 2500.22;
         System.out.println("your payment equals" + " " + salary);
+
+        JOptionPane.showMessageDialog(null, "Show me a window");
     }
 
 }
