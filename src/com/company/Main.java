@@ -18,9 +18,11 @@ public class Main {
         int length = 45;
         System.out.println(length);
 
+        //we hidden cash info
         double salary = 2500.22;
         System.out.println("your payment equals" + " " + salary);
 
+        //this code show alert massage window
         JOptionPane.showMessageDialog(null, "Show me a window");
     }
 
