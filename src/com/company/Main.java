@@ -25,7 +25,6 @@ public class Main {
         //this code show alert massage window
         JOptionPane.showMessageDialog(null, "Show me a window");
     }
-
 }
 
     /// try to make switch
